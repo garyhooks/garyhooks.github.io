@@ -23,7 +23,7 @@ repository               : "garyhooks/garyhooks.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me.png"
   name             : "Gary Hooks"
   pronouns         : # example: "she/her"  
   bio              : "Random collection of technical guides, posts and notes"
